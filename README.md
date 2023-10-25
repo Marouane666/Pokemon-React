@@ -1,9 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![pokemon](./public/images/Screenshot from 2023-10-25 01-26-55.png)
+
 
 ## Available Scripts
+
+![pokemon](./public/images/Screenshot from 2023-10-25 01-26-55.png)
+
 
 In the project directory, you can run:
 
